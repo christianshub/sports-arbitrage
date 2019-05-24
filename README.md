@@ -23,17 +23,11 @@ Accounts (username and password) at 1xbet.com and asianodds.com. This must go in
 
 ## TODO
 
-### Design patterns
-
-The tool was created before I've learned about [design patterns](https://sourcemaking.com/design_patterns). It's my goal to refactor the code to follow a popular design pattern.
-
-### SOLID principles 
-
-The [SOLID principles](https://en.wikipedia.org/wiki/SOLID) haven't been taken into consideration which will also be reworked in the near future.
-
-### Check game history
-
-Check game history
+- Design patterns
+  * The tool was created before I've learned about [design patterns](https://sourcemaking.com/design_patterns). It's my goal to refactor the code to follow a popular design pattern.
+ - SOLID principles 
+  * The [SOLID principles](https://en.wikipedia.org/wiki/SOLID) haven't been taken into consideration which will also be reworked in the near future.
+- Check game history
 
 
 
