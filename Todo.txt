@@ -1,0 +1,11 @@
+November 2018:
+[X] Test HDP's
+[ ] Add more OU's.
+[X] Add more HDP's.
+[X] Add FT | DC.
+
+NOT SO IMPORTANT, but still on to-do:
+[ ] Check betting history for profits.
+[ ] Login with NemID option (semi automatic).
+[ ] AutoPlace bets.
+[ ] Upload stats to a website.
