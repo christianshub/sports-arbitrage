@@ -30,22 +30,6 @@ Currently 1xbet.com and asianodds.com is being scraped for it's data as arbitrag
 Accounts (username and password) at 1xbet.com and asianodds.com. This must go into XB.py and AO.py respectively. 
 
 
-### TODO
-- [ ] Follow one or more design patterns
-  * The tool was created before I've learned about [design patterns](https://sourcemaking.com/design_patterns). It's my goal to refactor the code to follow a popular design pattern.
-
-- [ ] Refactor code to follow the SOLID principles 
-  * The [SOLID principles](https://en.wikipedia.org/wiki/SOLID) haven't been taken into consideration which will also be reworked in the near future.
-
-- [ ] Check betting history for profits.
-
-- [ ] Login with NemID option (semi automatic).
-
-- [ ] AutoPlace bets.
-
-- [ ] Upload stats to a website.
-
-
 
 
 
