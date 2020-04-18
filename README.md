@@ -14,7 +14,7 @@ We use [Selenium webdriver](https://www.seleniumhq.org/projects/webdriver/) to c
 The tool will do the following 
 1) Open 1xbet.com and asianodds.com using a headless browser (chrome).
 2) Navigate to username and password fields on the websites and input username and password seen in AO.py and XB.py.
-3) Every 10th minute scrape the websites for dates, time, teamnames and odds)
+3) Every 10th minute scrape the websites for dates, time, teamnames and odds (be careful to not penetrate their servers).
 4) Parse the data and extract it to a SQlite database.
 
 
