@@ -3,13 +3,13 @@
 When betting on sports events, using arbitrage opportunities is a popular technique used to gain an edge against sportsbookmakers.  
 The idea is simple; place one bet per each outcome with different betting companies, the bettor can make a profit regardless of the outcome. Mathematically arbitrage occurs when there are a set of odds, which represent all mutually exclusive outcomes that cover all state space possibilities (i.e. all outcomes) of an event ([wikipedia](https://en.wikipedia.org/wiki/Arbitrage_betting)).
 
-Professional bettors are currently paying for a subscription at https://www.oddstorm.com/ to get arbitrage opportunities, this tool may help them save some money by using and extending my provided tool.
+Professional bettors are currently paying for a subscription at https://www.oddstorm.com/ to get arbitrage opportunities. If you are willing to do it on your own, this repo may save you some time.
 
 ### What does this tool do?
 
-The tool scrapes for odds at two bookmaker websites and stores the data in a database.
+The tool scrapes for odds at (currently) two bookmaker websites and stores the data in a database.
 
-This tool uses [Selenium webdriver](https://www.seleniumhq.org/projects/webdriver/) to create a headless browser giving you, the user, the opportunity to read javascript data from the bookmaker websites, parse this data and extract the sorted data into a SQLite database. 
+We use use [Selenium webdriver](https://www.seleniumhq.org/projects/webdriver/) to create a headless browser giving you, the user, the opportunity to read javascript data from the bookmaker websites, parse this data and extract the sorted data into a SQLite database. 
 
 The tool will do the following 
 1) Open 1xbet.com and asianodds.com using a headless browser (chrome).
