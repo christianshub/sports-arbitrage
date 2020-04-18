@@ -9,7 +9,7 @@ Professional bettors are currently paying for a subscription at https://www.odds
 
 The tool scrapes for odds at (currently) two bookmaker websites and stores the data in a database.
 
-We use use [Selenium webdriver](https://www.seleniumhq.org/projects/webdriver/) to create a headless browser giving you, the user, the opportunity to read javascript data from the bookmaker websites, parse this data and extract the sorted data into a SQLite database. 
+We use [Selenium webdriver](https://www.seleniumhq.org/projects/webdriver/) to create a headless browser giving you, the user, the opportunity to read javascript data from the bookmaker websites, parse this data and extract the sorted data into a SQLite database. 
 
 The tool will do the following 
 1) Open 1xbet.com and asianodds.com using a headless browser (chrome).
