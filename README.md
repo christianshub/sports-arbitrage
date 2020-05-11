@@ -3,7 +3,7 @@
 When betting on sports events, using arbitrage opportunities is a popular technique used to gain an edge against sportsbookmakers.  
 The idea is simple; place one bet per each outcome with different betting companies, the bettor can then make a profit regardless of the outcome. Mathematically arbitrage occurs when there are a set of odds, which represent all mutually exclusive outcomes that cover all state space possibilities (i.e. all outcomes) of an event ([wikipedia](https://en.wikipedia.org/wiki/Arbitrage_betting)).
 
-Professional bettors are currently paying for a subscription at https://www.oddstorm.com/ to get arbitrage opportunities. If you are willing to do it on your own, this repo may save you some time.
+Professional bettors are currently paying for a subscription at https://www.oddstorm.com/ to get arbitrage opportunities. If you are willing to scrape and compare the odds on your own, this repo may save you some time.
 
 ### What does this tool do?
 
