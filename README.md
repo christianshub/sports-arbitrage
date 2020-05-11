@@ -11,7 +11,7 @@ The tool scrapes for odds at (currently) two bookmaker websites and stores the d
 
 We use [Selenium webdriver](https://www.seleniumhq.org/projects/webdriver/) to create a headless browser giving you, the user, the opportunity to read javascript data from the bookmaker websites. After that we parse this data and extract the sorted data into a SQLite database. 
 
-The tool automatically will do the following 
+The tool will do the following 
 1) Open 1xbet.com and asianodds.com using a headless browser (chrome).
 2) Navigate to username and password fields on the websites and input username and password seen in AO.py and XB.py.
 3) Every 10th minute scrape the websites for dates, time, teamnames and odds (be careful to not penetrate their servers).
