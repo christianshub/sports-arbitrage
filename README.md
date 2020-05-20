@@ -21,7 +21,7 @@ The tool will do the following
 
 ### Which sites are being scraped for data?
 
-Currently 1xbet.com and asianodds.com is being scraped for it's data as arbitrage opportunities between the two are often occuring. This can be easily extended to support other websites.
+Currently 1xbet.com and asianodds.com are being scraped for it's data, as arbitrage opportunities between the two are often occuring. This tool can be easily extended to support other websites.
 
 
 
